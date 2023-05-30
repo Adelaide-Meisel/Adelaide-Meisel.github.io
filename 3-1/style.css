@@ -1,12 +1,1 @@
-#redPartOfFlowers
-{ 
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 79px;
-    top: 49.8px;
-    
-    background: #F24F2B;
-    mix-blend-mode: multiply;
-    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0); 
-}
+p {margin:28px}
